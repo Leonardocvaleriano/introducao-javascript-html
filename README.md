@@ -26,7 +26,7 @@ O jogo deve gerar em seu back-end 3 numeros de 0 a 10 a cada rodada, estes numer
 - Integração com links externos (CSS, javascript) 
 
 <b>CSS</b>
-- configuração inicial do arquivo Externo
+- Configuração inicial do arquivo Externo
 - Definição de estilos para elementos  
 - Listas e divisões de conteúdo
  
