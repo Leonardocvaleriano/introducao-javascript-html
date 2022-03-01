@@ -6,7 +6,9 @@
 Objetivo do plano de estudos: Criar um jogo de adivinhação o qual o usuário terá que tentar acertar um dos numero gerados da rodada.
 O jogo deve gerar em seu back-end 3 numeros de 0 a 10 a cada rodada, estes numeros devem ser gerados de forma aleatoria e não podem se repetir.
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/97267699/155846652-e837d35b-3c54-42f7-902b-91ec9b6c05b2.gif)
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/97267699/155847550-2b784013-f4ab-45af-82fe-4406a234b6e2.gif)
+ 
 
 <h2>Técnicas e tecnologias utilizadas ✔️</h2>
 
