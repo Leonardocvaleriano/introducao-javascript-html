@@ -48,11 +48,14 @@
                 alert("------------------- PARABÉNS, você acertou !! -------------------  "+ 
                 "\n\n Clique em jogar novamente para reiniciar...");
                 break;
+               
+
             }  
     
             } if (achou == false) {
                  alert("Infelizmente você errou, tente novamente...");
                  input.focus();
+                
            }
            
            input.value = ""
