@@ -1,6 +1,3 @@
-
-<h1>Programa em JavaScript, HTML e CSS 💻 </h1>
-
 <h2>  Objetivo 🎯</h2>
 
 Objetivo do plano de estudos: Criar um jogo de adivinhação o qual o usuário terá que tentar acertar um dos numero gerados da rodada.
